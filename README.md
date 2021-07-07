@@ -1,0 +1,2 @@
+# Sistema_tkinter_2021
+ARQUIVOS DO SISTEMA VENDAS
